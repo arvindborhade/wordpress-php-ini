@@ -1,0 +1,2 @@
+# wordpressHtaccess
+Wordpress php.ini 
