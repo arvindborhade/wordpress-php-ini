@@ -1,4 +1,4 @@
-# wordpressHtaccess
+# wordpress php ini 
 Wordpress php.ini 
 
 memory_limit = 1024M
